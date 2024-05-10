@@ -322,7 +322,6 @@ pornhub.com##.hd.clear
 !||ca.gtimg.com/adplugin/swf/MediaPlugin.swf
 ! Youtube
 youtube.com###contents>ytd-search-pyv-renderer
-youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 youtube.com###video-masthead
 youtube.com###masthead-ad
 m.youtube.com###koya_child_6
@@ -330,8 +329,6 @@ m.youtube.com###koya_child_6
 ||youtube.com/*=adunit&
 ||youtube.com/*&yt_ad
 ||youtube.com/get_midroll_info?
-! 心魔听书网
-||m.ixinmo.com/template/m/js/yidong*.js
 ! Baidu
 ^monitor.jpg?xcode^
 pan.baidu.com##.upload-bar.global-clearfix

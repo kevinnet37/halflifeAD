@@ -5,3 +5,4 @@
 4. ad2.txt：合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance；
 5. ad3.txt：合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy；
 6. ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters。
+7. https://github.com/sbwml/halflife-list
